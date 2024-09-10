@@ -58,8 +58,14 @@
   <a href="#"><img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhi773925&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="#"><img alt="Abhishek's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi773925&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /></a>
 </p>
+## 📊 My LeetCode Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
-<a href="#"><img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhi773925&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align="center">
+  <a href="https://leetcode.com/u/abhishek7739/">
+    <img alt="Abhishek's LeetCode Stats" src="https://leetcode-stats-api.herokuapp.com/?username=abhishek7739&theme=dark&border=2px%20solid%20#000" />
+  </a>
+</p>
+
 
 <h2 align="center">My Trending Repos 💻</h2>
 <p align='center'>
