@@ -61,11 +61,21 @@
 </p>
 
 ## 📊 My LeetCode Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
+
 <p align="center">
   <a href="https://leetcode.com/u/abhishek7739/">
-    <img alt="Abhishek's LeetCode Stats" src="https://leetcode-stats-api.herokuapp.com/?username=abhishek7739&theme=dark&border=2px%20solid%20#000" />
+    <img alt="Abhishek's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=abhishek7739&theme=dark" />
   </a>
 </p>
+
+## 📊 My GFG Profile <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/rockabhishek0ok7/">
+    <img alt="Abhishek's GFG Profile" src="https://img.shields.io/badge/GeeksforGeeks-0A9D00?style=for-the-badge&logo=geeksfor geeks&logoColor=white" />
+  </a>
+</p>
+
 
 <h2 align="center">My Trending Repos 💻</h2>
 <p align='center'>
