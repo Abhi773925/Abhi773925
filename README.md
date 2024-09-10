@@ -67,13 +67,15 @@
     <img alt="Abhishek's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=abhishek7739&theme=dark" />
   </a>
 </p>
+
 ## 📊 My Coding Ninjas Profile <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
 <p align="center">
   <a href="https://www.naukri.com/code360/profile/abhi773925">
-    <img alt="Abhishek's Coding Ninjas Profile" src="https://img.shields.io/badge/Coding%20Ninjas-0A9D00?style=for-the-badge&logo=codingninjas&logoColor=white" />
+    <img alt="Abhishek's Coding Ninjas Profile" src="https://img.shields.io/badge/Coding%20Ninjas-000000?style=for-the-badge&logo=codingninjas&logoColor=white" />
   </a>
 </p>
+
 
 ## 📊 My GFG Profile <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
