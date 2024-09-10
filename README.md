@@ -16,19 +16,20 @@ A heartwarming pet adoption platform designed to bring joy to both pets and thei
 
 ### 2. **University Management System** 🎓📚
 A robust system for managing academic and administrative operations in educational institutions.
-- **Repository:** [University Management System](https://github.com/Abhi773925/University-Management-System)
+- **Repository:** [University Management System](https://github.com/Abhi773925/Lovely-Professional-University-UMS-)
 - **Features:** Student records, course management, report generation.
-- **Tech Stack:** Java, Spring Boot, MySQL
-- ![University Management System Screenshot](https://via.placeholder.com/400x300)
-- **Demo:** [Watch Demo](https://example.com/demo) (replace with actual demo link)
+- **Tech Stack:** JavaScript, HTML, CSS
+- ![University Management System Screenshot](https://github.com/Abhi773925/Lovely-Professional-University-UMS-/blob/main/Screenshot%20(209).png)
+- **Demo:** [Watch Demo](https://abhi773925.github.io/Lovely-Professional-University-UMS-/) (replace with actual demo link)
 
 ### 3. **NextMarket** 🛍️✨
-An innovative e-commerce platform designed to enhance your online shopping experience.
-- **Repository:** [NextMarket](https://github.com/Abhi773925/NextMarket)
+About
+NexMarket offers a diverse shopping experience with dedicated sections for groceries, cutting-edge gadgets, and fashionable clothing, catering to all your daily needs under one virtual roof.
+- **Repository:** [NextMarket](https://github.com/Abhi773925/NexMarket)
 - **Features:** Product listings, shopping cart, user accounts.
-- **Tech Stack:** React.js, Node.js, Express, MongoDB
-- ![NextMarket Screenshot](https://via.placeholder.com/400x300)
-- **Demo:** [Watch Demo](https://example.com/demo) (replace with actual demo link)
+- **Tech Stack:** JavaScript, Express,CSS, JQUERY,Vite
+- ![NextMarket Screenshot](https://github.com/Abhi773925/NexMarket/blob/main/Screenshot%20(248).png)
+- **Demo:** [Watch Demo](https://abhi773925.github.io/NexMarket/) (replace with actual demo link)
 
 ---
 
@@ -56,17 +57,10 @@ An innovative e-commerce platform designed to enhance your online shopping exper
 
 ## 🌐 Coding Profiles
 
-- **LeetCode:** [Abhishek Kumar](https://leetcode.com/your-username/) (replace with your actual LeetCode profile link)
-- **GeeksforGeeks:** [Abhishek Kumar](https://auth.geeksforgeeks.org/user/your-username/) (replace with your actual GeeksforGeeks profile link)
+- **LeetCode:** [Abhishek Kumar](https://leetcode.com/u/abhishek7739/) (replace with your actual LeetCode profile link)
+- **GeeksforGeeks:** [Abhishek Kumar](https://www.geeksforgeeks.org/user/rockabhishek0ok7/) (replace with your actual GeeksforGeeks profile link)
 
 ---
-
-## 📚 Latest Blog Posts
-
-Stay updated with my latest blog posts:
-- [How to Build a Pet Adoption Platform with React.js](https://example.com/blog/pet-adoption) (replace with actual blog link)
-- [Managing University Records Efficiently](https://example.com/blog/university-management) (replace with actual blog link)
-- [E-Commerce Development Best Practices](https://example.com/blog/ecommerce) (replace with actual blog link)
 
 ---
 
