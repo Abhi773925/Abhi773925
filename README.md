@@ -9,6 +9,12 @@
 - 🌱 I’m currently learning React
 - 🔭 I’m currently working on Frontend projects
 
+### About Me
+I am a tech enthusiast and passionate developer based in India. I love to explore new technologies and work on exciting projects. I believe in learning continuously and contributing to open-source communities. 
+
+### My Goals
+I aim to create impactful software solutions that make a difference and contribute to various tech communities. I am also keen on developing my skills in full-stack development.
+
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/abhishek7781/" target="blank">
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,30 +30,30 @@
 
 ## My Projects
 <ol>
-  <li><a href="https://abhi773925.github.io/NexMarket/"><strong>NexMarket</strong></a></li>
-  <li><a href="https://abhi773925.github.io/Lovely-Professional-University-UMS-/"><strong>University Management System</strong></a></li>
-  <li><a href="https://abhi773925.github.io/Random-Quotes-Generator/"><strong>Random Quote Generator</strong></a></li>
+  <li><a href="https://abhi773925.github.io/NexMarket/"><strong>NexMarket</strong></a> - An e-commerce platform with modern UI/UX.</li>
+  <li><a href="https://abhi773925.github.io/Lovely-Professional-University-UMS-/"><strong>University Management System</strong></a> - A system for managing university operations.</li>
+  <li><a href="https://abhi773925.github.io/Random-Quotes-Generator/"><strong>Random Quote Generator</strong></a> - Generate random quotes at the click of a button.</li>
 </ol>
 <br>
 
-## Languages and Tools:
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+## Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 <br>
 <p align="center">
@@ -64,31 +70,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/abhishek7739/">
-    <img alt="Abhishek's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=abhishek7739&theme=dark" />
+    <img alt="Abhishek's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=abhishek7739&theme=dark&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
-
-## 📊 My Coding Profiles <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
 <p align="center">
-  <a href="https://www.naukri.com/code360/profile/abhi773925">
-    <img alt="Abhishek's Coding Ninjas Profile" src="https://img.shields.io/badge/Coding%20Ninjas-000000?style=for-the-badge&logo=codingninjas&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/rockabhishek0ok7/">
-    <img alt="Abhishek's GFG Profile" src="https://img.shields.io/badge/GeeksforGeeks-0A9D00?style=for-the-badge&logo=geeksfor geeks&logoColor=white" />
-  </a>
+  <img alt="Abhishek's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=Abhi773925&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
-
-
-<h2 align="center">My Trending Repos 💻</h2>
-<p align='center'>
-  <a href="https://github.com/Abhi773925/NexMarket"><img width="282" src="https://github.com/Abhi773925/NexMarket/blob/main/Screenshot%20(248).png" alt="NexMarket"></a>
-  <a href="https://github.com/Abhi773925/Lovely-Professional-University-UMS-"><img width="282" src="https://github.com/Abhi773925/Lovely-Professional-University-UMS-/blob/main/Screenshot%20(209).png" alt="University Management System"></a>
-</p>
-<br>
-<a><img src="https://img.shields.io/github/followers/Abhi773925?label=Followers&style=social" alt="GitHub Badge"></a>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Abhi773925&color=orange&style=flat-square)
-
-### <h1><p align ="center">Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p></h1>
