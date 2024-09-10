@@ -2,10 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Ramesh+Chandra's+GitHub+Profile)](https://git.io/typing-svg)
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
-## Hi there I'm Rameshchandra Pola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
+## Hi there I'm Abhishek Kumar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
 > **Well done is better than Well said**💪
 
-# I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
+# I'm a Tech Enthusiast and a Passionate delveloper from Inida!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
 - 🌱 I’m currently learning React
 - 🔭 I’m currently working on Frontend projects
@@ -13,40 +13,30 @@
 
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/rameshchandrapola/" target="blank" >
+<a href="https://www.linkedin.com/in/abhishek7781/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://twitter.com/POLARAMESHCHAN2" target="blank" >
-    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://rameshchandra22.hashnode.dev/">
-    <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/polarameshchandra/">
+  <a href="https://www.instagram.com/hey_abhishek77/">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:pola.rameshchandra22@gmail.com">
+  <a href="mailto:rockabhisheksingh778189@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://dev.to/rameshchandrapola">
-    <img align="left"src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-
   <br>
   <br>
   
- ## My Blogs
+ ## My Projects
 <oi>
   <li>
-<a href="https://rameshchandra22.hashnode.dev/top-15-vs-code-extensions-for-web-development"><strong>Top 15 VS Code Extensions For Web Development</strong></a></li>
+<a href="https://github.com/Abhi773925/NexMarket"><strong>NexMarket</strong></a></li>
   <li>
-<a href="https://rameshchandra22.hashnode.dev/getting-started-with-github-pages"><strong>Getting started with GitHub pages</strong></a></li>
+<a href="https://github.com/Abhi773925/Lovely-Professional-University-UMS-"><strong>Unimversity Managment System</strong></a></li>
   <li>
-<a href="https://rameshchandra22.hashnode.dev/css-gradient-the-ultimate-tool"><strong>CSS Gradient: The Ultimate Tool</strong></a></li>
+<a href="https://github.com/Abhi773925/Random-Quotes-Generator"><strong>Random Quote Generator</strong></a></li>
     <li>
-<a href="https://rameshchandra22.hashnode.dev/19-tips-to-google-like-a-pro"><strong>19 tips to Google like a pro</strong></a></li>
+</li>
       <li>
-<a href="https://rameshchandra22.hashnode.dev/53-new-shortcuts-to-perform-new-actions-in-one-step"><strong>53 new shortcuts to perform new actions in one step</strong></a></li>
+</li>
 
   </oi>
 <br>
@@ -75,7 +65,7 @@
 <br>
 <!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a> -->
  <p align="center" >
- <a href="#"><img alt="Rameshchandra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
+ <a href="#"><img alt="Abhishek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
