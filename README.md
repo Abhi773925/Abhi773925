@@ -41,11 +41,6 @@ NexMarket offers a diverse shopping experience with dedicated sections for groce
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi773925&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abhi773925)
-
----
 
 ## 🖥️ Connect with Me
 
@@ -64,17 +59,7 @@ NexMarket offers a diverse shopping experience with dedicated sections for groce
 
 ---
 
-## 🎨 Fun and Creative
 
-### 💻 Coding in Style
-
-![Coding Animation](https://media.giphy.com/media/xT5LMgQPLF2Y5zTQtc/giphy.gif)
-
-### 🎡 Animated Fun Fact
-
-![Fun Fact Animation](https://media.giphy.com/media/3o6Zt4F9K0h1sFhBhS/giphy.gif)
-
----
 
 ## 🌟 Tech Stack
 
