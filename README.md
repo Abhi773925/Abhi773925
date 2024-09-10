@@ -83,7 +83,10 @@ I aim to create impactful software solutions that make a difference and contribu
     <img alt="Abhishek's GFG Profile" src="https://img.shields.io/badge/GeeksforGeeks-0A9D00?style=for-the-badge&logo=geeksfor geeks&logoColor=white" />
   </a>
 </p>
-
+## 🔥 Streak Stats
+<p align="center">
+  <a href="#"><img alt="Abhishek's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi773925&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /></a>
+</p>
 <p align="center">
   <img alt="Abhishek's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=Abhi773925&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
 </p>
