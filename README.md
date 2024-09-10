@@ -73,7 +73,23 @@ I aim to create impactful software solutions that make a difference and contribu
     <img alt="Abhishek's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=abhishek7739&theme=dark&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
+## 📊 My Coding Profiles <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
+
+<p align="center">
+  <a href="https://www.naukri.com/code360/profile/abhi773925">
+    <img alt="Abhishek's Coding Ninjas Profile" src="https://img.shields.io/badge/Coding%20Ninjas-000000?style=for-the-badge&logo=codingninjas&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/rockabhishek0ok7/">
+    <img alt="Abhishek's GFG Profile" src="https://img.shields.io/badge/GeeksforGeeks-0A9D00?style=for-the-badge&logo=geeksfor geeks&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img alt="Abhishek's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=Abhi773925&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
 </p>
+<br>
+<a><img src="https://img.shields.io/github/followers/Abhi773925?label=Followers&style=social" alt="GitHub Badge"></a>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Abhi773925&color=orange&style=flat-square)
+
+### <h1><p align ="center">Show Some ❤ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p></h1>
