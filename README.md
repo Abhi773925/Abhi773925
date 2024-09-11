@@ -38,8 +38,7 @@ I am a tech enthusiast and passionate developer based in India. I love to explor
   <a href="https://github.com/Abhi773925/NexMarket"><img width="282" src="https://github.com/Abhi773925/NexMarket/blob/main/Screenshot%20(248).png" alt="NexMarket"></a>
   <a href="https://github.com/Abhi773925/Lovely-Professional-University-UMS-"><img width="282" src="https://github.com/Abhi773925/Lovely-Professional-University-UMS-/blob/main/Screenshot%20(209).png" alt="University Management System"></a>
 </p>
-<br>
-<br>
+
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
