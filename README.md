@@ -12,8 +12,6 @@
 ### About Me
 I am a tech enthusiast and passionate developer based in India. I love to explore new technologies and work on exciting projects. I believe in learning continuously and contributing to open-source communities.
 
-### My Goals
-I aim to create impactful software solutions that make a difference and contribute to various tech communities. I am also keen on developing my skills in full-stack development.
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/abhishek7781/" target="_blank">
@@ -35,7 +33,13 @@ I aim to create impactful software solutions that make a difference and contribu
   <li><a href="https://abhi773925.github.io/Random-Quotes-Generator/"><strong>Random Quote Generator</strong></a> - Generate random quotes at the click of a button.</li>
 </ol>
 <br>
-
+<h2 align="center">My Trending Repos 💻</h2>
+<p align='center'>
+  <a href="https://github.com/Abhi773925/NexMarket"><img width="282" src="https://github.com/Abhi773925/NexMarket/blob/main/Screenshot%20(248).png" alt="NexMarket"></a>
+  <a href="https://github.com/Abhi773925/Lovely-Professional-University-UMS-"><img width="282" src="https://github.com/Abhi773925/Lovely-Professional-University-UMS-/blob/main/Screenshot%20(209).png" alt="University Management System"></a>
+</p>
+<br>
+<br>
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
