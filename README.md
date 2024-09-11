@@ -80,10 +80,7 @@ I aim to create impactful software solutions that make a difference and contribu
   </a>
 </p>
 
-## 🔥 Streak Stats
-<p align="center">
-  <a href="#"><img alt="Abhishek's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi773925&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /></a>
-</p>
+
 
 <p align="center">
   <img alt="Abhishek's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=Abhi773925&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
@@ -94,4 +91,4 @@ I aim to create impactful software solutions that make a difference and contribu
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Abhi773925&color=orange&style=flat-square)
 
-### <h1><p align ="center">Show Some ❤ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4b95-a289-d1e4a9ec8ab3.png" width="25px"/></p></h1>
+### <h1><p align ="center">Show Some ❤ to  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!</p></h1>
