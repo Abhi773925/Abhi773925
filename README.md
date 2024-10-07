@@ -29,14 +29,15 @@ I am a tech enthusiast and passionate developer based in India. I love to explor
 ## My Projects
 <ol>
   <li><a href="https://abhi773925.github.io/NexMarket/"><strong>NexMarket</strong></a> - An e-commerce platform with modern UI/UX.</li>
-  <li><a href="https://abhi773925.github.io/Lovely-Professional-University-UMS-/"><strong>University Management System</strong></a> - A system for managing university operations.</li>
+  <li><a href="https://paw1ove.netlify.app"><strong>PawLove</strong></a> - A pet adoption platform to find and adopt pets.</li>
+  <li><a href="https://cvstudio.netlify.app/"><strong>CVStudio</strong></a> - A platform for creating personalized CVs.</li>
   <li><a href="https://abhi773925.github.io/Random-Quotes-Generator/"><strong>Random Quote Generator</strong></a> - Generate random quotes at the click of a button.</li>
 </ol>
 <br>
 <h2 align="center">My Trending Repos 💻</h2>
 <p align='center'>
-  <a href="https://github.com/Abhi773925/NexMarket"><img width="282" src="https://github.com/Abhi773925/NexMarket/blob/main/Screenshot%20(248).png" alt="NexMarket"></a>
-  <a href="https://github.com/Abhi773925/Lovely-Professional-University-UMS-"><img width="282" src="https://github.com/Abhi773925/Lovely-Professional-University-UMS-/blob/main/Screenshot%20(209).png" alt="University Management System"></a>
+  <a href="https://github.com/Abhi773925/PawLove"><img width="282" src="https://github.com/Abhi773925/PawLove/blob/main/screenshot.png" alt="PawLove"></a>
+  <a href="https://github.com/Abhi773925/CVStudio"><img width="282" src="https://github.com/Abhi773925/CVStudio/blob/main/screenshot.png" alt="CVStudio"></a>
 </p>
 
 ## Skills
@@ -82,8 +83,6 @@ I am a tech enthusiast and passionate developer based in India. I love to explor
     <img alt="Abhishek's GFG Profile" src="https://img.shields.io/badge/GeeksforGeeks-0A9D00?style=for-the-badge&logo=geeksfor%20geeks&logoColor=white" />
   </a>
 </p>
-
-
 
 <p align="center">
   <img alt="Abhishek's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=Abhi773925&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
