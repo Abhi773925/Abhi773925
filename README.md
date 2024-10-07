@@ -29,8 +29,8 @@ I am a tech enthusiast and passionate developer based in India. I love to explor
 
 <h2 align="center">My Trending Repos 💻</h2>
 <p align='center'>
-  <a href="https://github.com/Abhi773925/PawLove"><img width="400" height="300" src="https://github.com/Abhi773925/PawLove/blob/main/Screenshot.png" alt="PawLove" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"></a>
-  <a href="https://github.com/Abhi773925/CVStudio"><img width="400" height="300" src="https://github.com/Abhi773925/CVStudio/blob/main/Screenshot.png" alt="CVStudio" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"></a>
+  <a href="https://paw1ove.netlify.app"><img width="300" height="200" src="https://github.com/Abhi773925/PawLove/blob/main/Screenshot.png" alt="PawLove" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"></a>
+  <a href="https://cvstudio.netlify.app"><img width="300" height="200" src="https://github.com/Abhi773925/CVStudio/blob/main/Screenshot.png" alt="CVStudio" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"></a>
 </p>
 
 ## Skills
