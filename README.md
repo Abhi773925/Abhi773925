@@ -29,15 +29,15 @@ I am a tech enthusiast and passionate developer based in India. I love to explor
 ## My Projects
 <ol>
   <li><a href="https://abhi773925.github.io/NexMarket/"><strong>NexMarket</strong></a> - An e-commerce platform with modern UI/UX.</li>
-  <li><a href="https://paw1ove.netlify.app"><strong>PawLove</strong></a> - A pet adoption platform to find and adopt pets.</li>
-  <li><a href="https://cvstudio.netlify.app/"><strong>CVStudio</strong></a> - A platform for creating personalized CVs.</li>
+  <li><a href="https://paw1ove.netlify.app"><strong>PawLove</strong> <img width="282" src="https://github.com/Abhi773925/PawLove/blob/main/Screenshot.png" alt="PawLove"></a> - A pet adoption platform to find and adopt pets.</li>
+  <li><a href="https://cvstudio.netlify.app/"><strong>CVStudio</strong><img width="282" src="https://github.com/Abhi773925/CVStudio/blob/main/Screenshot.png" alt="CVStudio"</a> - A platform for creating personalized CVs.</li>
   <li><a href="https://abhi773925.github.io/Random-Quotes-Generator/"><strong>Random Quote Generator</strong></a> - Generate random quotes at the click of a button.</li>
 </ol>
 <br>
 <h2 align="center">My Trending Repos 💻</h2>
 <p align='center'>
-  <a href="https://github.com/Abhi773925/PawLove"><img width="282" src="https://github.com/Abhi773925/PawLove/blob/main/screenshot.png" alt="PawLove"></a>
-  <a href="https://github.com/Abhi773925/CVStudio"><img width="282" src="https://github.com/Abhi773925/CVStudio/blob/main/screenshot.png" alt="CVStudio"></a>
+  <a href="https://github.com/Abhi773925/PawLove"><img width="282" src="https://github.com/Abhi773925/PawLove/blob/main/Screenshot.png" alt="PawLove"></a>
+  <a href="https://github.com/Abhi773925/CVStudio"><img width="282" src="https://github.com/Abhi773925/CVStudio/blob/main/Screenshot.png" alt="CVStudio"></a>
 </p>
 
 ## Skills
