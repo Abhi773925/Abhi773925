@@ -26,14 +26,46 @@ I am a tech enthusiast and passionate developer based in India. I love to explor
 <br>
 <br>
 
-## My Projects
-<ol>
-  <li><a href="https://abhi773925.github.io/NexMarket/"><strong>NexMarket</strong></a> - An e-commerce platform with modern UI/UX.</li>
-  <li><a href="https://paw1ove.netlify.app"><strong>PawLove</strong> <img width="282" src="https://github.com/Abhi773925/PawLove/blob/main/Screenshot.png" alt="PawLove"></a> - A pet adoption platform to find and adopt pets.</li>
-  <li><a href="https://cvstudio.netlify.app/"><strong>CVStudio</strong><img width="282" src="https://github.com/Abhi773925/CVStudio/blob/main/Screenshot.png" alt="CVStudio"</a> - A platform for creating personalized CVs.</li>
-  <li><a href="https://abhi773925.github.io/Random-Quotes-Generator/"><strong>Random Quote Generator</strong></a> - Generate random quotes at the click of a button.</li>
-</ol>
+## 🧑‍💻 My Projects
+<p align="center">
+  <strong><i>Check out some of the amazing projects I've worked on!</i></strong>
+</p>
+
+<div align="center">
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin-bottom: 20px; border-radius: 15px; box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+      <a href="https://abhi773925.github.io/NexMarket/">
+        <img src="https://via.placeholder.com/700x400.png?text=NexMarket" alt="NexMarket" style="width:100%; border-radius: 15px;">
+        <h3 style="color:#ff6f61; font-family: 'Arial', sans-serif;">NexMarket</h3>
+        <p>An e-commerce platform with modern UI/UX.</p>
+      </a>
+    </li>
+    <li style="margin-bottom: 20px; border-radius: 15px; box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+      <a href="https://paw1ove.netlify.app">
+        <img src="https://github.com/Abhi773925/PawLove/blob/main/Screenshot.png" alt="PawLove" style="width:100%; border-radius: 15px;">
+        <h3 style="color:#5c6bc0; font-family: 'Arial', sans-serif;">PawLove</h3>
+        <p>A pet adoption platform to find and adopt pets.</p>
+      </a>
+    </li>
+    <li style="margin-bottom: 20px; border-radius: 15px; box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+      <a href="https://cvstudio.netlify.app/">
+        <img src="https://github.com/Abhi773925/CVStudio/blob/main/Screenshot.png" alt="CVStudio" style="width:100%; border-radius: 15px;">
+        <h3 style="color:#ffb74d; font-family: 'Arial', sans-serif;">CVStudio</h3>
+        <p>A platform for creating personalized CVs.</p>
+      </a>
+    </li>
+    <li style="margin-bottom: 20px; border-radius: 15px; box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+      <a href="https://abhi773925.github.io/Random-Quotes-Generator/">
+        <img src="https://via.placeholder.com/700x400.png?text=Random+Quote+Generator" alt="Random Quote Generator" style="width:100%; border-radius: 15px;">
+        <h3 style="color:#009688; font-family: 'Arial', sans-serif;">Random Quote Generator</h3>
+        <p>Generate random quotes at the click of a button.</p>
+      </a>
+    </li>
+  </ul>
+</div>
+
 <br>
+
 <h2 align="center">My Trending Repos 💻</h2>
 <p align='center'>
   <a href="https://github.com/Abhi773925/PawLove"><img width="282" src="https://github.com/Abhi773925/PawLove/blob/main/Screenshot.png" alt="PawLove"></a>
