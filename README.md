@@ -26,43 +26,6 @@ I am a tech enthusiast and passionate developer based in India. I love to explor
 <br>
 <br>
 
-## 🧑‍💻 My Projects
-<p align="center">
-  <strong><i>Check out some of the amazing projects I've worked on!</i></strong>
-</p>
-
-<div align="center">
-  <ul style="list-style-type: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px;">
-    <li style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">
-      <a href="https://abhi773925.github.io/NexMarket/" style="display: block; text-align: center; padding: 10px;">
-        <h3 style="color:#ff6f61; font-family: 'Arial', sans-serif;">NexMarket</h3>
-        <p>An e-commerce platform with modern UI/UX.</p>
-      </a>
-    </li>
-    <li style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">
-      <a href="https://paw1ove.netlify.app" style="display: block; text-align: center; padding: 10px;">
-        <img src="https://github.com/Abhi773925/PawLove/blob/main/Screenshot.png" alt="PawLove" style="width:100%; height: 300px; object-fit: cover; border-radius: 15px;">
-        <h3 style="color:#5c6bc0; font-family: 'Arial', sans-serif;">PawLove</h3>
-        <p>A pet adoption platform to find and adopt pets.</p>
-      </a>
-    </li>
-    <li style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">
-      <a href="https://cvstudio.netlify.app/" style="display: block; text-align: center; padding: 10px;">
-        <img src="https://github.com/Abhi773925/CVStudio/blob/main/Screenshot.png" alt="CVStudio" style="width:100%; height: 300px; object-fit: cover; border-radius: 15px;">
-        <h3 style="color:#ffb74d; font-family: 'Arial', sans-serif;">CVStudio</h3>
-        <p>A platform for creating personalized CVs.</p>
-      </a>
-    </li>
-    <li style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">
-      <a href="https://abhi773925.github.io/Random-Quotes-Generator/" style="display: block; text-align: center; padding: 10px;">
-        <h3 style="color:#009688; font-family: 'Arial', sans-serif;">Random Quote Generator</h3>
-        <p>Generate random quotes at the click of a button.</p>
-      </a>
-    </li>
-  </ul>
-</div>
-
-<br>
 
 <h2 align="center">My Trending Repos 💻</h2>
 <p align='center'>
