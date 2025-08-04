@@ -1,107 +1,141 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+to+Abhishek+Kumar's+GitHub+Profile)](https://git.io/typing-svg)
-
-<a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
-
-## Hi there, I'm Abhishek Kumar! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
-> *Well done is better than well said.* 💪
-
-# I'm a Tech Enthusiast and Passionate Developer from India! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
-
-- 🌱 I’m currently learning **TypeScript**, **Advanced MERN Stack**, **Socket.IO**, and **Cloud Deployments**
-- 🔭 I’m currently working on:
-  - **PrepMate** – A collaborative coding platform with real-time code editor, DSA sheet, contest tracker & team rooms.
-  - **AgroLink** – A full-stack AgroTech platform with AI crop recommendations, weather alerts & real-time chat.
-
-### About Me
-I am a tech enthusiast and passionate developer based in India. I love building impactful, scalable apps and exploring modern web technologies. I believe in continuous learning and contributing to open-source communities.
-
----
-
-## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/abhishek7781/" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/hey_abhishek77/" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:rockabhisheksingh778189@gmail.com">
-  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<br><br>
-
----
-
-<h2 align="center">🚀 Trending Projects</h2>
-<p align='center'>
-  <a href="https://paw1ove.netlify.app"><img width="300" height="200" src="https://github.com/Abhi773925/PawLove/blob/main/Screenshot.png" alt="PawLove" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"></a>
-  <a href="https://cvstudio.netlify.app"><img width="300" height="200" src="https://github.com/Abhi773925/CVStudio/blob/main/Screenshot.png" alt="CVStudio" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"></a>
-</p>
-
----
-
-## 🛠 Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 My GitHub Stats
+<!-- Hero Section -->
 <p align="center">
-  <a href="#"><img alt="Abhishek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abhi773925&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="#"><img alt="Abhishek's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi773925&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F77222&center=true&vCenter=true&multiline=true&width=800&lines=Hey+there!+I'm+Abhishek+Kumar+👨‍💻;Welcome+to+my+GitHub+Universe!🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" height="200"/>
 </p>
 
 ---
 
-## 📈 My LeetCode Stats
+## 🙋‍♂️ About Me
+
+> *“Well done is better than well said.”* – Benjamin Franklin
+
+🎯 Tech Enthusiast & Full-Stack Developer from India 🇮🇳  
+💡 Love building impactful apps and exploring cutting-edge tools.  
+🌍 Open-source contributor & continuous learner.  
+📚 Currently pursuing **B.Tech in Computer Science @ LPU**
+
+---
+
+## 🚀 What I'm Up To
+
+- 🧠 **Learning:** `TypeScript`, `Socket.IO`, `Advanced MERN`, `Cloud Deployments`
+- 🛠 **Working on:**
+  - 🎯 [`PrepMate`](https://www.prepmate.site/) – Real-time coding & DSA platform with live collab, contest tracker & Monaco editor.
+  - 🌾 [`AgroLink`](https://agrolink-ag.vercel.app/) – A full-stack agrotech app with crop marketplace, weather alerts, and community chat.
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/abhishek7781" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rockabhisheksingh778189@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/hey_abhishek77">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend & Tools**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏆 My Projects Spotlight
+
+### 🚀 [PrepMate](https://www.prepmate.site/)
+> Real-time collaborative coding, live editor, contest tracker, DSA sheets & more!  
+Tech: React, Tailwind, Express.js, MongoDB, Socket.IO, Monaco Editor
+
+### 🌱 [AgroLink](https://agrolink-ag.vercel.app/)
+> AgroTech platform: crop marketplace, AI recommendations, weather alerts, community chat  
+Tech: React, Express.js, MongoDB, JWT, Socket.IO, Cloudinary
+
+### 📚 [Insight Arena](https://insightarena.netlify.app/)
+> Mock tests, study materials & performance analysis dashboard  
+Tech: React, Express, MongoDB
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi773925&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi773925&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
 <p align="center">
   <a href="https://leetcode.com/u/abhishek7739/">
-    <img alt="Abhishek's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=abhishek7739&theme=dark&hide_border=true&bg_color=0D1117" />
+    <img src="https://leetcard.jacoblin.cool/abhishek7739?theme=dark&font=JetBrains+Mono&animation=true" alt="LeetCode Stats" />
   </a>
 </p>
 
 ---
 
-## 🌐 My Coding Profiles
+## 👨‍💻 Coding Profiles
+
 <p align="center">
   <a href="https://www.naukri.com/code360/profile/abhi773925">
-    <img alt="Coding Ninjas" src="https://img.shields.io/badge/Coding%20Ninjas-000000?style=for-the-badge&logo=codingninjas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Coding Ninjas-000000?style=flat&logo=codingninjas&logoColor=white" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/rockabhishek0ok7/">
-    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-0A9D00?style=for-the-badge&logo=geeksfor%20geeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## 🏅 GitHub Achievements
+
 <p align="center">
-  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Abhi773925&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhi773925&theme=gruvbox&margin-w=5&no-bg=true&no-frame=true" />
 </p>
-
-<br>
-
-<a><img src="https://img.shields.io/github/followers/Abhi773925?label=Followers&style=social" alt="GitHub Followers Badge"></a>  
-<img src="https://komarev.com/ghpvc/?username=Abhi773925&color=orange&style=flat-square" alt="Visitor Counter" />
 
 ---
 
-### <h1><p align="center">💖 Show some love to <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> my repositories!</p></h1>
+## 📈 Visitors & Followers
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhi773925&label=Profile+Views&color=orange&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Abhi773925?label=Followers&style=social" />
+</p>
+
+---
+
+### ❤️ Show Some Love
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="30px" />
+  <br />
+  <b>If you like my work, please ⭐ my repositories!</b>
+</p>
