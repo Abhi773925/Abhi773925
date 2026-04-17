@@ -4,6 +4,9 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F77222&center=true&vCenter=true&multiline=true&width=800&lines=Hey+there!+I'm+Abhishek+Kumar+👨‍💻;Welcome+to+my+GitHub+Universe!🚀" alt="Typing SVG" />
+</p>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" height="200"/>
 </p>
 
